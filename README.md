@@ -2,15 +2,16 @@
 <div align="center">
    <img width="100px" src="https://github.com/user-attachments/assets/d17fa0d3-64f1-4bee-a7b9-71c0ef655b4c" alt="vennie" />
   <h3 align="center">hi! i'm ryana, but you may call me may</h3>
-  <h5 align="center">learn more about me by visiting my interactive portfolio below!</h1>
+   <h5 align="center"><b>ⓘ</b> for my latest portfolio, click <a href="https://ryanaque.com">here </a> </h5>
+  <h5 align="center">learn more about me by visiting my 'archived' interactive portfolio below!</h1>
 </div>
 
 ---
 
-<a href="https://ryanaque.com">
+<a href="[https://ryanaque.com](https://timemachine.ryanaque.com/bc8bad3/)">
 <img width="1200" height="630" alt="og-board" src="https://github.com/user-attachments/assets/a9ee5648-5225-4c6f-9dec-fadeebaa857a" />
 </a>
-<h5 align="center">click the image above!! or  <a href="https://ryanaque.com">open normally</a> ∙ <a href="https://ryanaque.com/s/">open in simple mode</a></h5>
+<h5 align="center">click the image above!! or  <a href="https://timemachine.ryanaque.com/bc8bad3/">open normally</a> ∙ <a href="https://timemachine.ryanaque.com/bc8bad3/s/">open in simple mode</a></h5>
 
 ---
   <a href="https://ryanaque.com">
