@@ -8,7 +8,7 @@
 
 ---
 
-<a href="[https://ryanaque.com](https://timemachine.ryanaque.com/bc8bad3/)">
+<a href="https://timemachine.ryanaque.com/bc8bad3/">
 <img width="1200" height="630" alt="og-board" src="https://github.com/user-attachments/assets/a9ee5648-5225-4c6f-9dec-fadeebaa857a" />
 </a>
 <h5 align="center">click the image above!! or  <a href="https://timemachine.ryanaque.com/bc8bad3/">open normally</a> ∙ <a href="https://timemachine.ryanaque.com/bc8bad3/s/">open in simple mode</a></h5>
